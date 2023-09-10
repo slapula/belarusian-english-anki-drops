@@ -15,9 +15,9 @@ Seeing as that Drops is a paid service, there is only so much one can do to repl
 ## Tools & Services used to create this deck
 
 - Python
-- Anki-Connect
-- OpenAI GPT-4
-- Pexels
+- [Anki-Connect](https://github.com/FooSoft/anki-connect)
+- [OpenAI GPT-4](https://openai.com/gpt-4)
+- [Pexels](https://www.pexels.com/)
 - [jhlfrfufyfn/bel-tts](https://huggingface.co/spaces/jhlfrfufyfn/bel-tts)
 
 ## How to use this deck
@@ -28,4 +28,4 @@ This repository follows the pattern for usage with [CrowdAnki](https://github.co
 
 For folks that are not familiar with git and/or Github: To be determined.
 
-For folks that are: You can follow the [instructions from CrowdAnki](https://github.com/Stvad/CrowdAnki#import-from-git).  I'm not doing anything differently with this deck and will accept PRs based off that workflow.
+For folks that are: You can follow the [instructions from CrowdAnki](https://github.com/Stvad/CrowdAnki#generic-collaboration-workflow).  I'm not doing anything differently with this deck and will accept PRs based off that workflow.
